@@ -51,7 +51,7 @@ function generateLinks() {
         },
         {
             title: "Agreement",
-            url: `https://selfemployedcredit.jotform.com/233525369165966?email=${email}&agreement[3]=${firstName}&agreement[4]=${lastName}`,
+            url: `https://selfemployedcredit.jotform.com/233525369165966?email=${email}&firstName=${firstName}&lastName=${lastName}`,
             completed: false
         }
     ];
